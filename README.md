@@ -22,6 +22,11 @@ docker run -it magicvision/android-dev /bin/bash
 
 This image is about 5G, the largest component is Android NDK, which uses 3.1G.
 
+## References
+
+- [go-router/dockerize-android-devenv](https://github.com/go-router/dockerize-android-devenv)
+- [ahazem/android-dockerfile](https://github.com/ahazem/android-dockerfile)
+
 ## License
 
 MIT license
